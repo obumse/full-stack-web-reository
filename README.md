@@ -1,1 +1,1 @@
-# full-stack-web-reository
+# full-stack-web-repository
